@@ -15,7 +15,7 @@ Stable tag: trunk
 O Plugin Programação DJs permite você exibir no seu site o nome do DJ ou Locutor Atual, o Nome do programa e o Horário dele.
 
 
-== Descrição ==
+== Description ==
 
 **Apresentação**
 
@@ -33,7 +33,7 @@ Além de poder colocar o shortcode em posts e páginas, você também pode adici
 O Plugin Programação DJ foi escrito por Anderson Makiyama do [Plugin WP](http://plugin-wp.net)
 
 
-== Instação ==
+== Instalation ==
 
 Para instalar e usar o plugin é muito simples:
 
@@ -70,7 +70,7 @@ You should have received a copy of the GNU General Public License along with Pub
 
 = Posso sugerir ideias e modificações para este plugin? =
 
-Sim, você pode. Basta deixar um comentário na página do plugin [Baixar apos Curtir no Facebook](http://plugin-wp.net/programacao-dj-exiba-locutor-atual)
+Sim, você pode. Basta deixar um comentário na página do plugin [Programação DJ](http://plugin-wp.net/programacao-dj-exiba-locutor-atual)
 
 
 == Screenshots ==
